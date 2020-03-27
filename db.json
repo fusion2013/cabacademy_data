@@ -1,243 +1,122 @@
 {
    "courses": [
       {
-         "id": 1,
-         "title": "Angular Course",
-         "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/512px-Angular_full_color_logo.svg.png",
-         "description": "Angular is a TypeScript-based open-source web application framework led by the Angular Team at Google and by a community of individuals and corporations. Angular is a complete rewrite from the same team that built AngularJS.",
-         "price": 42.99,
-         "syllabus": [
-            {
-               "id": 0,
-               "chapterTitle": "Introduction to basic HTML",
-               "chapterTuts": [
-                  {
-                     "id": 0,
-                     "videoTitle": "HTML Elements",
-                     "videoURL": "",
-                     "deleted": false
-                  },
-                  {
-                     "id": 1,
-                     "videoTitle": "Nested HTML Elements",
-                     "videoURL": "",
-                     "deleted": false
-                  },
-                  {
-                     "id": 2,
-                     "videoTitle": "HTML Attributes",
-                     "videoURL": "",
-                     "deleted": false
-                  },
-                  {
-                     "id": 3,
-                     "videoTitle": "Headings Are Important",
-                     "videoURL": "",
-                     "deleted": false
-                  },
-                  {
-                     "id": 4,
-                     "videoTitle": "Don't Forget the End Tag",
-                     "videoURL": "",
-                     "deleted": false
-                  },
-                  {
-                     "id": 5,
-                     "videoTitle": "The Poem Problem",
-                     "videoURL": "",
-                     "deleted": false
-                  },
-                  {
-                     "id": 6,
-                     "videoTitle": "Source codes",
-                     "videoURL": "",
-                     "deleted": false
-                  }
-               ]
+                "id": 1,
+                "name": "Angular Course",
+                "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/512px-Angular_full_color_logo.svg.png",
+                "description": "Angular is a TypeScript-based open-source web application framework led by the Angular Team at Google and by a community of individuals and corporations. Angular is a complete rewrite from the same team that built AngularJS.",
+                "price": 42.99,
+                "syllabus": [
+                    {
+                        "id": 1,
+                        "title": "Syllabus 1",
+                        "description": "xxxxx",
+                        "deleted": false
+                    },
+                    {
+                        "id": 2,
+                        "title": "Syllabus 2",
+                        "description": "xxxx",
+                        "deleted": false
+                    }
+                ],
+                "category": {
+                    "id": 2,
+                    "name": "Angular",
+                    "description": "xxx",
+                    "parentCategory": null,
+                    "childrenCategory": [],
+                    "deleted": false
+                },
+                "section": {
+                    "id": 1,
+                    "description": "fasdf",
+                    "name": "sfasd",
+                    "deleted": false
+                },
+                "ratings": 4,
+                "enrolled": 1000,
+                "startDate": "2020-04-13T04:00:00",
+                "endDate": "2020-06-30T04:00:00",
+                "deleted": false,
+                "premium": true
             },
             {
-               "id": 1,
-               "chapterTitle": "HTML5 features",
-               "chapterTuts": [
-                  {
-                     "id": 0,
-                     "videoTitle": "HTML Elements",
-                     "videoURL": "",
-                     "deleted": false
-                  },
-                  {
-                     "id": 1,
-                     "videoTitle": "Nested HTML Elements",
-                     "videoURL": "",
-                     "deleted": false
-                  },
-                  {
-                     "id": 2,
-                     "videoTitle": "HTML Attributes",
-                     "videoURL": "",
-                     "deleted": false
-                  },
-                  {
-                     "id": 3,
-                     "videoTitle": "Headings Are Important",
-                     "videoURL": "",
-                     "deleted": false
-                  },
-                  {
-                     "id": 4,
-                     "videoTitle": "Don't Forget the End Tag",
-                     "videoURL": "",
-                     "deleted": false
-                  },
-                  {
-                     "id": 5,
-                     "videoTitle": "The Poem Problem",
-                     "videoURL": "",
-                     "deleted": false
-                  },
-                  {
-                     "id": 6,
-                     "videoTitle": "Source codes",
-                     "videoURL": "",
-                     "deleted": false
-                  }
-               ]
+                "id": 2,
+                "name": "React",
+                "description": "React is a JavaScript library for building user interfaces. It is maintained by Facebook and a community of individual developers and companies. React can be used as a base in the development of single-page or mobile applications.",
+                "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/512px-React-icon.svg.png",
+                "price": 12.99,
+                "ratings": 5,
+                "enrolled": 1521,
+                "syllabus": [
+                    {
+                        "id": 3,
+                        "title": "Syllabus Test",
+                        "description": "xxxxxx",
+                        "deleted": false
+                    }
+                ],
+                "category": {
+                    "id": 3,
+                    "name": "React",
+                    "description": "xxxx",
+                    "parentCategory": null,
+                    "childrenCategory": [],
+                    "deleted": false
+                },
+                "section": {
+                    "id": 2,
+                    "description": "fasd",
+                    "name": "fasdf",
+                    "deleted": false
+                },
+                "startDate": "2020-04-04T04:00:00",
+                "endDate": "2020-04-29T04:00:00",
+                "deleted": false,
+                "premium": true
             },
             {
-               "id": 2,
-               "chapterTitle": "Build a Project in HTML 5",
-               "chapterTuts": [
-                  {
-                     "id": 0,
-                     "videoTitle": "HTML Elements",
-                     "videoURL": "",
-                     "deleted": false
-                  },
-                  {
-                     "id": 1,
-                     "videoTitle": "Nested HTML Elements",
-                     "videoURL": "",
-                     "deleted": false
-                  },
-                  {
-                     "id": 2,
-                     "videoTitle": "HTML Attributes",
-                     "videoURL": "",
-                     "deleted": false
-                  },
-                  {
-                     "id": 3,
-                     "videoTitle": "Headings Are Important",
-                     "videoURL": "",
-                     "deleted": false
-                  },
-                  {
-                     "id": 4,
-                     "videoTitle": "Don't Forget the End Tag",
-                     "videoURL": "",
-                     "deleted": false
-                  },
-                  {
-                     "id": 5,
-                     "videoTitle": "The Poem Problem",
-                     "videoURL": "",
-                     "deleted": false
-                  },
-                  {
-                     "id": 6,
-                     "videoTitle": "Source codes",
-                     "videoURL": "",
-                     "deleted": false
-                  }
-               ]
-            },
-            {
-               "id": 2,
-               "chapterTitle": "Summary",
-               "chapterTuts": [
-                  {
-                     "id": 0,
-                     "videoTitle": "Conclusion",
-                     "videoURL": "",
-                     "deleted": false
-                  },
-                  {
-                     "id": 1,
-                     "videoTitle": "Source code",
-                     "videoURL": "",
-                     "deleted": false
-                  }
-               ]
+                "id": 3,
+                "name": "HTML5 Course",
+                "description": "HTML5 is a software solution stack that defines the properties and behaviors of web page content by implementing a markup-based pattern to it. HTML5 was the fifth and current major version of HTML that is a World Wide Web Consortium recommendation.",
+                "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/800px-HTML5_logo_and_wordmark.svg.png",
+                "price": 42.99,
+                "enrolled": 400,
+                "syllabus": [
+                    {
+                        "id": 1,
+                        "title": "Syllabus 1",
+                        "description": "xxxxx",
+                        "deleted": false
+                    },
+                    {
+                        "id": 2,
+                        "title": "Syllabus 2",
+                        "description": "xxxx",
+                        "deleted": false
+                    }
+                ],
+                "category": {
+                    "id": 2,
+                    "name": "Angular",
+                    "description": "xxx",
+                    "parentCategory": null,
+                    "childrenCategory": [],
+                    "deleted": false
+                },
+                "section": {
+                    "id": 1,
+                    "description": "fasdf",
+                    "name": "sfasd",
+                    "deleted": false
+                },
+                "ratings": 3,
+                "startDate": "2020-04-13T04:00:00",
+                "endDate": "2020-06-30T04:00:00",
+                "deleted": false,
+                "premium": true
             }
-         ],
-         "category": {
-            "id": 2,
-            "name": "Angular",
-            "description": "xxx",
-            "parentCategory": null,
-            "childrenCategory": [],
-            "deleted": false
-         },
-         "section": {
-            "id": 1,
-            "description": "fasdf",
-            "name": "sfasd",
-            "deleted": false
-         },
-         "ratings": 4,
-         "enrolled": 1000,
-         "startDate": "2020-04-13T04:00:00",
-         "endDate": "2020-06-30T04:00:00",
-         "deleted": false,
-         "premium": true,
-         "author": "Von wick",
-         "lastUpdate": "10 Sep. 2019",
-         "overview": {
-            "features": [
-               {
-                  "icon": "ti-video-camera",
-                  "title": "48.5 hours on-demand video"
-               },
-               {
-                  "icon": "ti-download",
-                  "title": "12 downloadable resources"
-               },
-               {
-                  "icon": "ti-tablet",
-                  "title": "Access on mobile and TV"
-               },
-               {
-                  "icon": "ti-pencil",
-                  "title": "57 articles"
-               },
-               {
-                  "icon": "ti-timer",
-                  "title": "Full lifetime access"
-               },
-               {
-                  "icon": "ti-medall",
-                  "title": "Certificate of Completion"
-               }
-            ],
-            "requirements": [
-               "Prior experience with HTML, CSS and JavaScript.",
-               "Good knowledge and experience of using HTML for web application.",
-               "Understanding of Model-View-Controller (MVC) concepts.",
-               "Working knowledge of Document Object Model (DOM).",
-               "Strong experience in using the JavaScript including creating functions, managing events, and the error handling in JavaScript based applications."
-            ]
-         },
-         "objectives": [
-            "HTML is the standard markup language for creating Web pages.",
-            "HTML stands for Hyper Text Markup Language",
-            "HTML describes the structure of a Web page",
-            "HTML consists of a series of elements",
-            "HTML elements tell the browser how to display the content",
-            "HTML elements are represented by tags",
-            "HTML tags label pieces of content such as 'heading', 'paragraph', 'table', and so on",
-            "Browsers do not display the HTML tags, but use them to render the content of the page"
-         ]
-      }
    ],
    "profile": {
       "name": "fusion2013"

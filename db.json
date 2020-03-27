@@ -116,6 +116,47 @@
                 "endDate": "2020-06-30T04:00:00",
                 "deleted": false,
                 "premium": true
+            },
+            {
+                "id": 4,
+                "name": "CSS3 Course",
+                "description": "CSS is a language that describes the style of an HTML document. CSS describes how HTML elements should be displayed. This tutorial will teach you CSS from basic to advanced.",
+                "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/800px-HTML5_logo_and_wordmark.svg.png",
+                "price": 42.99,
+                "enrolled": 400,
+                "syllabus": [
+                    {
+                        "id": 1,
+                        "title": "Syllabus 1",
+                        "description": "xxxxx",
+                        "deleted": false
+                    },
+                    {
+                        "id": 2,
+                        "title": "Syllabus 2",
+                        "description": "xxxx",
+                        "deleted": false
+                    }
+                ],
+                "category": {
+                    "id": 2,
+                    "name": "Angular",
+                    "description": "xxx",
+                    "parentCategory": null,
+                    "childrenCategory": [],
+                    "deleted": false
+                },
+                "section": {
+                    "id": 1,
+                    "description": "fasdf",
+                    "name": "sfasd",
+                    "deleted": false
+                },
+                "ratings": 3,
+                "startDate": "2020-04-13T04:00:00",
+                "endDate": "2020-06-30T04:00:00",
+                "deleted": false,
+                "premium": true
             }
    ],
    "profile": {

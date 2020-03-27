@@ -34,24 +34,6 @@
                      "videoTitle": "Headings Are Important",
                      "videoURL": "",
                      "deleted": false
-                  },
-                  {
-                     "id": 4,
-                     "videoTitle": "Don't Forget the End Tag",
-                     "videoURL": "",
-                     "deleted": false
-                  },
-                  {
-                     "id": 5,
-                     "videoTitle": "The Poem Problem",
-                     "videoURL": "",
-                     "deleted": false
-                  },
-                  {
-                     "id": 6,
-                     "videoTitle": "Source codes",
-                     "videoURL": "",
-                     "deleted": false
                   }
                ]
             },
@@ -82,24 +64,6 @@
                      "videoTitle": "Headings Are Important",
                      "videoURL": "",
                      "deleted": false
-                  },
-                  {
-                     "id": 4,
-                     "videoTitle": "Don't Forget the End Tag",
-                     "videoURL": "",
-                     "deleted": false
-                  },
-                  {
-                     "id": 5,
-                     "videoTitle": "The Poem Problem",
-                     "videoURL": "",
-                     "deleted": false
-                  },
-                  {
-                     "id": 6,
-                     "videoTitle": "Source codes",
-                     "videoURL": "",
-                     "deleted": false
                   }
                ]
             },
@@ -128,24 +92,6 @@
                   {
                      "id": 3,
                      "videoTitle": "Headings Are Important",
-                     "videoURL": "",
-                     "deleted": false
-                  },
-                  {
-                     "id": 4,
-                     "videoTitle": "Don't Forget the End Tag",
-                     "videoURL": "",
-                     "deleted": false
-                  },
-                  {
-                     "id": 5,
-                     "videoTitle": "The Poem Problem",
-                     "videoURL": "",
-                     "deleted": false
-                  },
-                  {
-                     "id": 6,
-                     "videoTitle": "Source codes",
                      "videoURL": "",
                      "deleted": false
                   }
@@ -232,10 +178,7 @@
             "HTML stands for Hyper Text Markup Language",
             "HTML describes the structure of a Web page",
             "HTML consists of a series of elements",
-            "HTML elements tell the browser how to display the content",
-            "HTML elements are represented by tags",
-            "HTML tags label pieces of content such as 'heading', 'paragraph', 'table', and so on",
-            "Browsers do not display the HTML tags, but use them to render the content of the page"
+            "HTML elements tell the browser how to display the content"
          ]
       },
       {
@@ -265,30 +208,6 @@
                      "videoTitle": "HTML Attributes",
                      "videoURL": "",
                      "deleted": false
-                  },
-                  {
-                     "id": 3,
-                     "videoTitle": "Headings Are Important",
-                     "videoURL": "",
-                     "deleted": false
-                  },
-                  {
-                     "id": 4,
-                     "videoTitle": "Don't Forget the End Tag",
-                     "videoURL": "",
-                     "deleted": false
-                  },
-                  {
-                     "id": 5,
-                     "videoTitle": "The Poem Problem",
-                     "videoURL": "",
-                     "deleted": false
-                  },
-                  {
-                     "id": 6,
-                     "videoTitle": "Source codes",
-                     "videoURL": "",
-                     "deleted": false
                   }
                ]
             },
@@ -313,30 +232,6 @@
                      "videoTitle": "HTML Attributes",
                      "videoURL": "",
                      "deleted": false
-                  },
-                  {
-                     "id": 3,
-                     "videoTitle": "Headings Are Important",
-                     "videoURL": "",
-                     "deleted": false
-                  },
-                  {
-                     "id": 4,
-                     "videoTitle": "Don't Forget the End Tag",
-                     "videoURL": "",
-                     "deleted": false
-                  },
-                  {
-                     "id": 5,
-                     "videoTitle": "The Poem Problem",
-                     "videoURL": "",
-                     "deleted": false
-                  },
-                  {
-                     "id": 6,
-                     "videoTitle": "Source codes",
-                     "videoURL": "",
-                     "deleted": false
                   }
                ]
             },
@@ -353,36 +248,6 @@
                   {
                      "id": 1,
                      "videoTitle": "Nested HTML Elements",
-                     "videoURL": "",
-                     "deleted": false
-                  },
-                  {
-                     "id": 2,
-                     "videoTitle": "HTML Attributes",
-                     "videoURL": "",
-                     "deleted": false
-                  },
-                  {
-                     "id": 3,
-                     "videoTitle": "Headings Are Important",
-                     "videoURL": "",
-                     "deleted": false
-                  },
-                  {
-                     "id": 4,
-                     "videoTitle": "Don't Forget the End Tag",
-                     "videoURL": "",
-                     "deleted": false
-                  },
-                  {
-                     "id": 5,
-                     "videoTitle": "The Poem Problem",
-                     "videoURL": "",
-                     "deleted": false
-                  },
-                  {
-                     "id": 6,
-                     "videoTitle": "Source codes",
                      "videoURL": "",
                      "deleted": false
                   }
@@ -442,18 +307,6 @@
                {
                   "icon": "ti-tablet",
                   "title": "Access on mobile and TV"
-               },
-               {
-                  "icon": "ti-pencil",
-                  "title": "57 articles"
-               },
-               {
-                  "icon": "ti-timer",
-                  "title": "Full lifetime access"
-               },
-               {
-                  "icon": "ti-medall",
-                  "title": "Certificate of Completion"
                }
             ],
             "requirements": [
@@ -469,10 +322,7 @@
             "HTML stands for Hyper Text Markup Language",
             "HTML describes the structure of a Web page",
             "HTML consists of a series of elements",
-            "HTML elements tell the browser how to display the content",
-            "HTML elements are represented by tags",
-            "HTML tags label pieces of content such as 'heading', 'paragraph', 'table', and so on",
-            "Browsers do not display the HTML tags, but use them to render the content of the page"
+            "HTML elements tell the browser how to display the content"
          ]
       },
       {
@@ -494,36 +344,6 @@
                   {
                      "id": 1,
                      "videoTitle": "Nested HTML Elements",
-                     "videoURL": "",
-                     "deleted": false
-                  },
-                  {
-                     "id": 2,
-                     "videoTitle": "HTML Attributes",
-                     "videoURL": "",
-                     "deleted": false
-                  },
-                  {
-                     "id": 3,
-                     "videoTitle": "Headings Are Important",
-                     "videoURL": "",
-                     "deleted": false
-                  },
-                  {
-                     "id": 4,
-                     "videoTitle": "Don't Forget the End Tag",
-                     "videoURL": "",
-                     "deleted": false
-                  },
-                  {
-                     "id": 5,
-                     "videoTitle": "The Poem Problem",
-                     "videoURL": "",
-                     "deleted": false
-                  },
-                  {
-                     "id": 6,
-                     "videoTitle": "Source codes",
                      "videoURL": "",
                      "deleted": false
                   }
@@ -548,30 +368,6 @@
                   {
                      "id": 2,
                      "videoTitle": "HTML Attributes",
-                     "videoURL": "",
-                     "deleted": false
-                  },
-                  {
-                     "id": 3,
-                     "videoTitle": "Headings Are Important",
-                     "videoURL": "",
-                     "deleted": false
-                  },
-                  {
-                     "id": 4,
-                     "videoTitle": "Don't Forget the End Tag",
-                     "videoURL": "",
-                     "deleted": false
-                  },
-                  {
-                     "id": 5,
-                     "videoTitle": "The Poem Problem",
-                     "videoURL": "",
-                     "deleted": false
-                  },
-                  {
-                     "id": 6,
-                     "videoTitle": "Source codes",
                      "videoURL": "",
                      "deleted": false
                   }
@@ -602,24 +398,6 @@
                   {
                      "id": 3,
                      "videoTitle": "Headings Are Important",
-                     "videoURL": "",
-                     "deleted": false
-                  },
-                  {
-                     "id": 4,
-                     "videoTitle": "Don't Forget the End Tag",
-                     "videoURL": "",
-                     "deleted": false
-                  },
-                  {
-                     "id": 5,
-                     "videoTitle": "The Poem Problem",
-                     "videoURL": "",
-                     "deleted": false
-                  },
-                  {
-                     "id": 6,
-                     "videoTitle": "Source codes",
                      "videoURL": "",
                      "deleted": false
                   }
@@ -683,14 +461,6 @@
                {
                   "icon": "ti-pencil",
                   "title": "57 articles"
-               },
-               {
-                  "icon": "ti-timer",
-                  "title": "Full lifetime access"
-               },
-               {
-                  "icon": "ti-medall",
-                  "title": "Certificate of Completion"
                }
             ],
             "requirements": [
@@ -706,10 +476,7 @@
             "HTML stands for Hyper Text Markup Language",
             "HTML describes the structure of a Web page",
             "HTML consists of a series of elements",
-            "HTML elements tell the browser how to display the content",
-            "HTML elements are represented by tags",
-            "HTML tags label pieces of content such as 'heading', 'paragraph', 'table', and so on",
-            "Browsers do not display the HTML tags, but use them to render the content of the page"
+            "HTML elements tell the browser how to display the content"
          ]
       },
       {
@@ -739,30 +506,6 @@
                      "videoTitle": "HTML Attributes",
                      "videoURL": "",
                      "deleted": false
-                  },
-                  {
-                     "id": 3,
-                     "videoTitle": "Headings Are Important",
-                     "videoURL": "",
-                     "deleted": false
-                  },
-                  {
-                     "id": 4,
-                     "videoTitle": "Don't Forget the End Tag",
-                     "videoURL": "",
-                     "deleted": false
-                  },
-                  {
-                     "id": 5,
-                     "videoTitle": "The Poem Problem",
-                     "videoURL": "",
-                     "deleted": false
-                  },
-                  {
-                     "id": 6,
-                     "videoTitle": "Source codes",
-                     "videoURL": "",
-                     "deleted": false
                   }
                ]
             },
@@ -787,30 +530,6 @@
                      "videoTitle": "HTML Attributes",
                      "videoURL": "",
                      "deleted": false
-                  },
-                  {
-                     "id": 3,
-                     "videoTitle": "Headings Are Important",
-                     "videoURL": "",
-                     "deleted": false
-                  },
-                  {
-                     "id": 4,
-                     "videoTitle": "Don't Forget the End Tag",
-                     "videoURL": "",
-                     "deleted": false
-                  },
-                  {
-                     "id": 5,
-                     "videoTitle": "The Poem Problem",
-                     "videoURL": "",
-                     "deleted": false
-                  },
-                  {
-                     "id": 6,
-                     "videoTitle": "Source codes",
-                     "videoURL": "",
-                     "deleted": false
                   }
                ]
             },
@@ -827,36 +546,6 @@
                   {
                      "id": 1,
                      "videoTitle": "Nested HTML Elements",
-                     "videoURL": "",
-                     "deleted": false
-                  },
-                  {
-                     "id": 2,
-                     "videoTitle": "HTML Attributes",
-                     "videoURL": "",
-                     "deleted": false
-                  },
-                  {
-                     "id": 3,
-                     "videoTitle": "Headings Are Important",
-                     "videoURL": "",
-                     "deleted": false
-                  },
-                  {
-                     "id": 4,
-                     "videoTitle": "Don't Forget the End Tag",
-                     "videoURL": "",
-                     "deleted": false
-                  },
-                  {
-                     "id": 5,
-                     "videoTitle": "The Poem Problem",
-                     "videoURL": "",
-                     "deleted": false
-                  },
-                  {
-                     "id": 6,
-                     "videoTitle": "Source codes",
                      "videoURL": "",
                      "deleted": false
                   }
@@ -941,12 +630,7 @@
          "objectives": [
             "HTML is the standard markup language for creating Web pages.",
             "HTML stands for Hyper Text Markup Language",
-            "HTML describes the structure of a Web page",
-            "HTML consists of a series of elements",
-            "HTML elements tell the browser how to display the content",
-            "HTML elements are represented by tags",
-            "HTML tags label pieces of content such as 'heading', 'paragraph', 'table', and so on",
-            "Browsers do not display the HTML tags, but use them to render the content of the page"
+            "HTML describes the structure of a Web page"
          ]
       }
    ],
